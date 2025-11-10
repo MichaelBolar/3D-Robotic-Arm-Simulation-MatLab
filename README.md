@@ -23,5 +23,12 @@ Animation	          Plots robot movement over time
 Example Output
 
 The robot traces a circular path in 3D space by solving IK for each point:
+
 center = [0.3 0.4 0];
 radius = 0.15;
+
+▶️ Requirements
+
+MATLAB (R2020+ recommended)
+
+Robotics System Toolbox

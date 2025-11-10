@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - Adds an end-effector frame for task control
 - Uses inverse kinematics to compute joint angles
 - Animates the robot tracing a circular path
-
+______________________________________________________________________________________________________________________________________________________________
 
 📂 Project Structure
 
@@ -24,12 +24,14 @@ Inverse Kinematics - Computes joint configurations
 
 Animation	- Plots robot movement over time
 
+______________________________________________________________________________________________________________________________________________________________
 Example Output
 
 The robot traces a circular path in 3D space by solving IK for each point:
 
 center = [0.3 0.4 0];
 radius = 0.15;
+______________________________________________________________________________________________________________________________________________________________
 
 ▶️ Requirements
 

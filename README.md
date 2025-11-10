@@ -14,12 +14,15 @@ ________________________________________________________________________________
 
 📂 Project Structure
 
-Component	          Description
+Component	           Description
 
-Rigid Body Tree	    Defines robot links & joints
-End-Effector	      Tool frame at robot tip
-Inverse Kinematics  Computes joint configurations
-Animation	          Plots robot movement over time
+Rigid Body Tree - Defines robot links & joints
+
+End-Effector - Tool frame at robot tip
+
+Inverse Kinematics - Computes joint configurations
+
+Animation	- Plots robot movement over time
 
 Example Output
 

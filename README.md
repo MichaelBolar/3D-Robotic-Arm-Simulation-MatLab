@@ -1,5 +1,6 @@
 
-3D-Robotic-Arm-Simulation-MatLab
+#3D-Robotic-Arm-Simulation-MatLab
+
 This project demonstrates the creation and simulation of robotic arms in MATLAB using the RigidBodyTree framework from the Robotics System Toolbox. The repository includes both 2D and 3D implementations of a 6-DOF robotic arm that uses inverse kinematics to trace circular trajectories.
 🚀 Features
 

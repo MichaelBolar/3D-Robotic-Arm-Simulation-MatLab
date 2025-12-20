@@ -172,7 +172,7 @@ ik = inverseKinematics('RigidBodyTree', rbt);
 weights = [0, 0, 0, 1, 1, 0];
 endEffector = 'toolTip'
 
-%{
+
 for i = 1:count
     % Solve for the configuration satisfying the desired end effector
     % position
@@ -202,4 +202,3 @@ for i = 1:count
     drawnow
     waitfor(r);
 end
-%}

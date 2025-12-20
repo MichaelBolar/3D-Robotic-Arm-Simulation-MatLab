@@ -88,7 +88,7 @@ display(homeConfiguration(rbt))
 showdetails(rbt)
 show(rbt)
 
-%{
+
 %Create a circle that can be traced
 t = (0:0.2:10)'; %Time
 count = length(t);
@@ -136,4 +136,4 @@ for i = 1:count
     drawnow
     waitfor(r);
 end
-%}
+
